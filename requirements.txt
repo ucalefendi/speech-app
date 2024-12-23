@@ -1,0 +1,13 @@
+click==8.1.7
+colorama==0.4.6
+joblib==1.4.2
+nltk==3.9.1
+PyAudio==0.2.14
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.16.1
+regex==2024.11.6
+SpeechRecognition==3.12.0
+textblob==0.18.0.post0
+tqdm==4.67.1
+typing_extensions==4.12.2
